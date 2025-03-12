@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\PROJECT\BUILD\CMAKEFILES\4BBD3A2218EE3AC0686498BE169A56E7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/Desktop/project -BC:/Users/User/Desktop/project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/User/Desktop/project/build/library_management_system.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
