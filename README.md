@@ -2,7 +2,7 @@
 
 ## Overview
 Project for CSE 4302 <br>
-Year 02. Semester Winter <br>
+Year: 02, Semester: Winter <br>
 Islamic University of Technology IUT
 
 The project is a management system for IUT Library where different functions are being performed like user authentication, menu navigation, file handling & data management.
