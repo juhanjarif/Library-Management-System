@@ -35,7 +35,7 @@ cmake ..
 ```sh
 cmake --build . --config Release
 ```
-#### **For macOS/Linux (Using Make or Ninja)**
+#### **For macOS/Linux**
 ```sh
 cmake --build .
 ```
@@ -45,9 +45,9 @@ now you will have your .exe file in the following directory
 ```
 
 ## Team Members
-220041214    Juhan Ahmed 
-220041218    Abrar Shahriar
-220041236    Md Adnan Samir
+220041214    Juhan Ahmed <br>
+220041218    Abrar Shahriar <br>
+220041236    Md Adnan Samir <br>
 220041240    Farhan Ishraq Ayon 
-
+<br> <br>
 IUT CSE'22
