@@ -39,7 +39,8 @@ cmake --build . --config Release
 ```sh
 cmake --build .
 ```
-now you will have your .exe file in the following directory
+
+### **6. now you will have your .exe file in the following directory**
 ```sh
 ../build/Debug/"exe file name".exe
 ```
